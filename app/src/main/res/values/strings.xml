@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intent_And_Fragment</string>
+    <string name="chats">chats</string>
+    <string name="status">status</string>
+    <string name="i_am_chat">I am chat</string>
+    <string name="i_am_status">I am status</string>
+</resources>
